@@ -1,21 +1,21 @@
 # 👋 Hi, I'm João Gabriel | **ML Researcher & Full-Stack Developer**
 
 ## 🔬 Current Work
-**Scientific Initiation Researcher** @ [LaPESA/UNESP](https://www.lapesa.unesp.br/)  
-Developing ML models (Scikit-Learn, Keras) to analyze/predict **technical debt** using classifiers (KNN, SVM, Random Forest).
+**Scientific Researcher** @ [LaPESA/UNESP](https://www.lapesa.unesp.br/)  
+Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using classifiers (KNN, SVM, Random Forest).
 
 ## 💼 Professional Background
-- **Technical Lead** - Agriculture Enterprise Platforms @ Telkom Indonesia
-- **Blockchain Lead** - FinTech Solutions @ Telkom Indonesia
-- **Trainer/Speaker** - Hyperledger, NestJS, Java Spring
+- **Scientific Research** - Word Embeending, KNN, Sentiment Analysis
+- **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL
+- **Tools** - Power BI, Python, R
 
 ## 🌱 Currently Learning
 - Exploratory Data Analysis & Data Science
-- Public Blockchain & DeFi Applications
+- Analysis, Detection and Prediction of Technical Debt
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-j.bezerra@unesp.br-blue?style=flat&logo=gmail)](mailto:j.bezerra@unesp.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaogabrielmbezerra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaobezcerra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaobezcerra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaobezcerra)
 
 ## 🛠 Technical Skills
 | Category        | Technologies                          |
