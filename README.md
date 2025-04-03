@@ -26,14 +26,20 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 | **Frontend**    | React, Solid.Js                       |
 | **Mobile**      | Flutter, React Native                 |
 
-## 📌 Highlights
-```python
-# Sample ML code from my research
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import StandardScaler
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaobezcerra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-# Technical debt prediction model
-model = RandomForestClassifier()
-scaler = StandardScaler()
-X_train = scaler.fit_transform(X_train)
-model.fit(X_train, y_train)
+---
+
+### WakaTime Coding Activity
+
+##### Total Time
+<a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+
+##### Activity
+<a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobezcerra&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+
+---
+
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaobezcerra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/joaobezcerra/github-profile-trophy#about-rank)
