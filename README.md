@@ -1,7 +1,7 @@
 # 👋 Hi, I'm João Gabriel | **ML Researcher & Full-Stack Developer**
 
 ## 🔬 Current Work
-**Scientific Researcher** @ [LaPESA/UNESP](https://www.lapesa.unesp.br/)  
+**Scientific Researcher** Applied Software Engineering Research Laboratory – LaPESA
 Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using classifiers (KNN, SVM, Random Forest).
 
 ## 💼 Professional Background
@@ -23,8 +23,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 | **ML/AI**       | Scikit-Learn, Keras, Pandas, NumPy    |
 | **Blockchain**  | Hyperledger, Ethereum, Smart Contracts|
 | **Backend**     | Node.js, TypeScript, Java Spring      |
-| **Frontend**    | React, Solid.Js                       |
-| **Mobile**      | Flutter, React Native                 |
+| **Frontend**    | React, Solid.Js, jQuery               |
 
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaobezcerra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -37,7 +36,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 <a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 
 ##### Activity
-<a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=joaobezcerra&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+<a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nanrasukedy&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 ---
 
