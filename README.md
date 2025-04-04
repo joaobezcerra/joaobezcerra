@@ -34,9 +34,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 ##### Total Time
 <a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 
-##### Activity
-<a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nanrasukedy&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-lapenta&show_icons=true&locale=en&layout=compact" alt="pedro-lapenta" /></p>
 ---
 
 ### Profile Trophy
