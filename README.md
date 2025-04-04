@@ -36,6 +36,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobezcerra&show_icons=true&locale=en&layout=compact" alt="joaobezcerra" /></p>
 
+<p></p>
 ---
 
 ### Profile Trophy
