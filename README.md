@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Gabriel | **ML Researcher & Full-Stack Developer**
+# 📝 Hi, I'm João Gabriel | **Scientific Researcher & Full-Stack Developer**
 
 ## 🔬 Current Work
 **Scientific Researcher** Applied Software Engineering Research Laboratory – LaPESA
@@ -20,8 +20,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 ## 🛠 Technical Skills
 | Category        | Technologies                          |
 |-----------------|---------------------------------------|
-| **ML/AI**       | Scikit-Learn, Keras, Pandas, NumPy    |
-| **Blockchain**  | Hyperledger, Ethereum, Smart Contracts|
+| **MachineLearn**| Scikit-Learn, Keras, Pandas, NumPy    |
 | **Backend**     | Node.js, TypeScript, Java Spring      |
 | **Frontend**    | React, Solid.Js, jQuery               |
 
