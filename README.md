@@ -24,9 +24,6 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 | **Backend**     | Node.js, TypeScript, Java Spring      |
 | **Frontend**    | React, Solid.Js, jQuery               |
 
-### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaobezcerra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ---
 
 ### WakaTime Coding Activity
@@ -35,6 +32,3 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 <a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 
 ---
-
-### Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaobezcerra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/joaobezcerra/github-profile-trophy#about-rank)
