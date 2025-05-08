@@ -22,7 +22,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 | Category        | Technologies                          |
 |-----------------|---------------------------------------|
 | **MachineLearn**| Scikit-Learn, Keras, Pandas, NumPy    |
-| **Backend**     | Node.js, TypeScript, Java Spring      |
+| **Backend**     | Node.js, TypeScript, Java, Python     |
 | **Frontend**    | React, Solid.Js, jQuery               |
 
 ---
