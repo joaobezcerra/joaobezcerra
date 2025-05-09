@@ -27,7 +27,7 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 
 ---
 
-![Status](./profile-3d-contrib/profile-gitblock.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ### WakaTime Coding Activity
 ##### Total Time
