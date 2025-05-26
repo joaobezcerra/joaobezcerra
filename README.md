@@ -16,7 +16,6 @@ Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using c
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-j.bezerra@unesp.br-blue?style=flat&logo=gmail)](mailto:j.bezerra@unesp.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaobezcerra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaobezcerra)
-<a href="https://stackoverflow.com/users/22026253/joaobezcerra" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 
 ## Technical Skills
 | Category        | Technologies                          |
