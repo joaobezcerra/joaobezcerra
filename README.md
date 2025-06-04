@@ -1,4 +1,4 @@
-# Hi, I'm João Gabriel | **Full-Stack Developer**
+# Hi, I'm João Gabriel
 
 ## Current Work
 **Scientific Researcher** Applied Software Engineering Research Laboratory – LaPESA
