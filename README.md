@@ -1,17 +1,14 @@
 # Hi, I'm João Gabriel
 
 ## Current Work
-**Scientific Researcher** Applied Software Engineering Research Laboratory – LaPESA
-Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using classifiers (KNN, SVM, Random Forest).
+Developing ML models (Scikit-Learn, Keras) to predict using classifiers (KNN, SVM, Random Forest).
 
 ## Professional Background
-- **Scientific Research** - Word Embeending, KNN, Sentiment Analysis
 - **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL
 - **Tools** - Power BI, Python, R
 
 ## Currently Learning
 - Exploratory Data Analysis & Data Science
-- Analysis, Detection and Prediction of Technical Debt
 
 ## How to Reach Me
 [![Email](https://img.shields.io/badge/Email-j.bezerra@unesp.br-blue?style=flat&logo=gmail)](mailto:j.bezerra@unesp.br)
