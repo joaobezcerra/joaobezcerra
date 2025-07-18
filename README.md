@@ -1,11 +1,13 @@
 # Hi, I'm João Gabriel
 
 ## Current Work
-Developing ML models (Scikit-Learn, Keras) to predict using classifiers (KNN, SVM, Random Forest).
+Machine Learning model development (Scikit-Learn, Keras).
+Classifiers (KNN, SVM, Random Forest) and Regression (Simple and Multiple Linear).
+Time series analysis and stationarity verification (ADF test).
 
 ## Professional Background
-- **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL
-- **Tools** - Power BI, Python, R
+- **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL, Python, Java
+- **Tools** - Power BI, R, Google Colab, Git, Monday (WorkFlow Software)
 
 ## Currently Learning
 - Exploratory Data Analysis & Data Science
