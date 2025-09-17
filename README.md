@@ -19,9 +19,9 @@ Time series analysis and stationarity verification (ADF test).
 ## Technical Skills
 | Category        | Technologies                          |
 |-----------------|---------------------------------------|
-| **MachineLearn**| Scikit-Learn, Keras, Pandas, NumPy    |
 | **Backend**     | Node.js, TypeScript, Java, Python     |
 | **Frontend**    | React, Solid.Js, jQuery               |
+| **Data Science**| Scikit-Learn, Pandas, NumPy, Keras    |
 
 ---
 
