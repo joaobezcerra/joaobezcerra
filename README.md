@@ -1,29 +1,26 @@
-### Hi, I'm João Gabriel
+### Hi, I'm João Bezerra
 
-### Curriculum Vitae: https://joaobezcerra.github.io/CurriculumVitae/
+### Curriculum Vitae
+https://joaobezcerra.github.io/CurriculumVitae/
 
 ### Current Work
-Machine Learning model development (Scikit-Learn, Keras).
-Classifiers (KNN, SVM, Random Forest) and Regression (Simple and Multiple Linear).
-Time series analysis and stationarity verification (ADF test).
+Implementation of Machine Learning/AI programs.
+Exploratory and descriptive data analysis to support decision-making.
+Data collection, cleaning, and standardization, ensuring quality and consistency.
+Creation and review of demand forecasting models using time series.
+Development of mathematical optimization models and Operations Research topics.
 
 ### Professional Background
-- **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL, Python, Java
-- **Tools** - Power BI, R, Google Colab, Git, Monday (WorkFlow Software)
+- **Development** - Scala, Python, R, C, C++, GraphQL, Java, JavaScript, TypeScript
+- **Frameworks** - Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Forecast, Prophet, Scikit-learn, Xgboost, Tensorflow
+- **Tools** - ETL, Data Integration, Power BI, Jupyter Notebook, JupyterLab, Google Colab, Databricks, Azure ML, Git.
 
 ### Currently Learning
-- Exploratory Data Analysis & Data Science
+Exploratory Data Analysis & Data Science
 
 ### How to Reach Me
 [![Email](https://img.shields.io/badge/Email-j.bezerra@unesp.br-blue?style=flat&logo=gmail)](mailto:j.bezerra@unesp.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaobezcerra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaobezcerra)
-
-### Technical Skills
-| Category        | Technologies                          |
-|-----------------|---------------------------------------|
-| **Backend**     | Node.js, TypeScript, Java, Python     |
-| **Frontend**    | React, Solid.Js, jQuery               |
-| **Data Science**| Scikit-Learn, Pandas, NumPy, Keras    |
 
 ### WakaTime Coding Activity
 ##### Total Time
