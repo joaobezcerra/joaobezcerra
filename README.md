@@ -1,7 +1,6 @@
 ### Hi, I'm João Bezerra
 
-### Curriculum Vitae
-https://joaobezcerra.github.io/CurriculumVitae/
+### <a href="https://joaobezcerra.github.io/CurriculumVitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
 ### Current Work
 Implementation of Machine Learning/AI programs.
@@ -18,11 +17,5 @@ Development of mathematical optimization models and Operations Research topics.
 ### Currently Learning
 Exploratory Data Analysis & Data Science
 
-### How to Reach Me
-[![Email](https://img.shields.io/badge/Email-j.bezerra@unesp.br-blue?style=flat&logo=gmail)](mailto:j.bezerra@unesp.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaobezcerra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaobezcerra)
-
 ### WakaTime Coding Activity
-##### Total Time
 <a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
-
