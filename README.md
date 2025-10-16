@@ -1,5 +1,7 @@
 # Hi, I'm João Gabriel
 
+# Curriculum Vitae: https://joaobezcerra.github.io/CurriculumVitae/
+
 ## Current Work
 Machine Learning model development (Scikit-Learn, Keras).
 Classifiers (KNN, SVM, Random Forest) and Regression (Simple and Multiple Linear).
