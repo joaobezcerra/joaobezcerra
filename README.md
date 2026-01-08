@@ -18,4 +18,4 @@ Development of mathematical optimization models and Operations Research topics.
 Exploratory Data Analysis & Data Science
 
 ### WakaTime Coding Activity
-<a href="https://wakatime.com/@joaobezcerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+<a href="https://wakatime.com/@joao-bezerra" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
