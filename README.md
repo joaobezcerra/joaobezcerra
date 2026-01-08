@@ -1,4 +1,4 @@
-q### Hi, I'm João Bezerra
+### Hi, I'm João Bezerra
 
 ### <a href="https://joaobezcerra.github.io/CurriculumVitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
