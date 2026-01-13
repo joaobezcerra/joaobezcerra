@@ -1,6 +1,6 @@
 ### Hi, I'm João Bezerra
 
-### <a href="https://joaobezcerra.github.io/CurriculumVitae/" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+### <a href="https://joaobezcerra.github.io/curriculum-vitae/cv.pdf" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
 ### Current Work
 Implementation of Machine Learning/AI programs.
