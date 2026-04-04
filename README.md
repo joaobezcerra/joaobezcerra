@@ -7,11 +7,7 @@ Data Scientist specialized in forecasting, price elasticity, and mathematical op
 
 ### Professional Background
 - **Languages** - Python, Scala, R, Java, JavaScript, TypeScript
-- **Forecasting & Time Series** - SKU-level statistical forecasting, temporal cross-validation (forward chaining), MAPE, RMSE, automated model selection, Forecast Value Added (FVA)
-- **Statistical & Economic Modeling** - Log-log regression, own-price and cross-price elasticity modeling, interpolation methods (PCHIP, Cubic Spline), outlier analysis (IQR)
-- **Mathematical Optimization** - Objective functions (revenue and margin), business and competitive constraints, constrained optimization using SLSQP and trust-constr (SciPy)
 - **Data Engineering** - Data ingestion and versioning, Parquet-based storage, modular pipelines, large-scale processing
-- **MLOps & Production** - Databricks Jobs, CRON scheduling, parallel execution, pipeline monitoring, model governance and traceability
 - **Libraries & Frameworks** - Pandas, NumPy, Statsmodels, Prophet, Scikit-learn, SciPy
 - **Tools & Platforms** - AWS S3, Databricks, Git, Power BI, Jupyter Notebook, JupyterLab
 - **Languages** - English (Intermediate), Spanish (Intermediate), Japanese (Basic)
