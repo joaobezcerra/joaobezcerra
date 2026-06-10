@@ -6,7 +6,7 @@
 Data Scientist specialized in forecasting, price elasticity, and mathematical optimization, with hands-on experience building and maintaining scalable, production-grade analytics pipelines. Strong focus on statistical rigor, model governance, and integration with enterprise systems to support reliable, data-driven decision-making.
 
 ### Professional Background
-- **Languages** - Python, Scala, R, Java, JavaScript, TypeScript
+- **Languages** - Python, Java, C, JavaScript, TypeScript
 - **Data Engineering** - Data ingestion and versioning, Parquet-based storage, modular pipelines, large-scale processing
 - **Libraries & Frameworks** - Pandas, NumPy, Statsmodels, Prophet, Scikit-learn, SciPy
 - **Tools & Platforms** - AWS S3, Databricks, Git, Power BI, Jupyter Notebook, JupyterLab
